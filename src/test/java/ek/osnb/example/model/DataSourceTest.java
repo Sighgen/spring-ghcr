@@ -1,4 +1,4 @@
-package ek.osnb.example.repository;
+package ek.osnb.example.model;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
